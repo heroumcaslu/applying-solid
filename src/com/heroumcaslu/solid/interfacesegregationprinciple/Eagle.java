@@ -1,4 +1,4 @@
-package com.heroumcaslu.solid.isp;
+package com.heroumcaslu.solid.interfacesegregationprinciple;
 
 public class Eagle implements FlyingBirds {
 

@@ -2,6 +2,8 @@ package com.heroumcaslu.solid.singleresponsability;
 
 public class Order {
 	
+	//Each class has just one responsability.
+	
 	public void calculateTotalSum() {
 		
 		//returns an integer with the sum of all products.
